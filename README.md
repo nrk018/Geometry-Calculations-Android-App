@@ -28,5 +28,9 @@ Input the required parameters for the geometry calculation you want to perform.
 
 Get instant results and enjoy exploring different geometric calculations!
 
+Password for Zip file : R001
+<img width="1710" alt="Screenshot 2024-06-14 at 1 04 12 AM" src="https://github.com/nrk018/Geometry-Calculations-Android-App/assets/143875715/8748d6dc-329c-4110-9365-7468adab264c">
+
+
 
 
