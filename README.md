@@ -28,4 +28,5 @@ Input the required parameters for the geometry calculation you want to perform.
 
 Get instant results and enjoy exploring different geometric calculations!
 
-Screenshots:
+
+
